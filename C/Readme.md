@@ -1,4 +1,4 @@
-# Generic Makefile
+# Generic Makefile for C Programs
 
 As C programs grow, manually compiling each file can be tedious. A **Makefile** automates this process, saving time and reducing errors. It specifies how to build your program and handles dependencies automatically.
 
