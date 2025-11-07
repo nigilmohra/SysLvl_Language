@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 #ifndef MATHOPS
-
 #define MATHOPS
 // Inline Addition
 static inline void add(int *a, int *b, int *result){
@@ -26,5 +25,4 @@ static inline void div(int *a, int *b, float *result){
     *result = 0.0f;
     }
 }
-
 #endif
