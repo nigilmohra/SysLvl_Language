@@ -1,7 +1,5 @@
-// Main Program - uses the functionality without worry about the internal details.
-
+// Main Program
 #include "Hello.h"
-
 int main(void) {
   sayHello(); 
   return 0;
