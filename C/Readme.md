@@ -10,14 +10,14 @@ CC = gcc
 # Compiler Flags (Warnings, Debugging Info)
 CFLAGS = -Wall -Wextra -g
 
-# Target Executable
-TARGET = feast_impl
-
 # Source Files
-SRCS = 
+SRCS = FileName.c
 
 # Object Files
 OBJS = $(SRCS:.c=.o)
+
+# Target Executable
+TARGET = FileName
 
 # Default Rule to Build the Program
 $(TARGET): $(OBJS)
