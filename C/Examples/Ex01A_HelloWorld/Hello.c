@@ -1,5 +1,4 @@
-// Implementation File - defines how those functions work.
-
+// Implementation File 
 #include <stdio.h>
 // User-Defined Header
 #include "Hello.h"
