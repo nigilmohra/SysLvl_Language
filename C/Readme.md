@@ -2,7 +2,7 @@
 
 As C programs grow, manually compiling each file can be tedious. A **Makefile** automates this process, saving time and reducing errors. It specifies how to build your program and handles dependencies automatically.
 
-"""
+"""bash
 # A Generic Make File
 # Compiler
 CC = gcc
