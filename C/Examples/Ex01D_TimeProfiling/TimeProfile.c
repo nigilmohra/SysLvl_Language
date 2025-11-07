@@ -1,9 +1,6 @@
 // Time Profiling
 
-/*
-POSIX is a standard for UNIX-like systems that defines APIs like timers, threads, and file operations.
-*/
-
+// POSIX (UNIX-System Functions Header)
 #define _POSIX_C_SOURCE 199309L
 #include <stdio.h>
 #include <time.h>
