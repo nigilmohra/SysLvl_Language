@@ -1,7 +1,5 @@
-// Header File - declares what functions, types, or constants are available.
-
+// Header File
 #ifndef BASIC_PRG
-
 #define BASIC_PRG
   // Function Prototype
   void sayHello(void);
